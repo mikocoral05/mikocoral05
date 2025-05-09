@@ -90,8 +90,6 @@
 
 <!-- Android Studio -->
 <img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" width="70" height="70" style="border-radius:12px; margin:30px;" title="Android Studio" />
-<!-- Microsoft Edge -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/edge/edge-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Microsoft Edge" />
 
 <!-- GitHub -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70" style="border-radius:12px; margin:30px; background-color:white;" title="GitHub" />
