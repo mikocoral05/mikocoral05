@@ -19,11 +19,20 @@
   <!-- Vue.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Vue.js" />
 
-  <!-- Quasar Framework (Placeholder using Vue icon again) -->
+  <!-- Quasar Framework (using Vue.js icon as placeholder) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Quasar Framework" />
 
   <!-- Pinia -->
   <img src="https://pinia.vuejs.org/logo.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Pinia Store" />
+
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Node.js" />
+
+  <!-- npm -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="npm" />
+
+  <!-- Bash -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Bash" />
 
   <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="PHP" />
@@ -41,13 +50,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="MongoDB" />
 
   <!-- Mongoose -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Mongoose ODM" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Mongoose" />
+
+  <!-- Nginx -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Nginx" />
 
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Linux Server" />
 
+  <!-- XAMPP -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/XAMPP_logo.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="XAMPP" />
+
   <!-- Hostinger -->
   <img src="https://assets.hostinger.com/images/logo-h-dark.svg" width="90" height="70" style="border-radius:12px; margin:30px;" title="Hostinger VPS" />
 
-  <!-- XAMPP -->
-  <img src="https://upload.wikimedia.org/wikipedia/
+  <!-- Capacitor -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capacitor/capacitor-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Capacitor" />
+
+  <!-- Android -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Android" />
+
+  <!-- Google Chrome -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Chrome Browser" />
+
+  <!-- Google -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Google Tools" />
+
+  <!-- Google AdMob -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Google_AdMob_logo.svg" width="90" height="70" style="border-radius:12px; margin:30px;" title="Google AdMob" />
+
+  <!-- React (if used) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="React" />
+</div>
+
