@@ -81,5 +81,19 @@
 
   <!-- React (if used) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="React" />
+
+
+  <!-- Quasar -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Quasar" />
+
+<!-- Axios (using generic logo as Axios doesn't have an official icon in Devicon) -->
+<img src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" width="70" height="70" style="border-radius:12px; margin:30px;" title="Axios" />
+
+<!-- Android -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Android" />
+
+<!-- Android Studio -->
+<img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" width="70" height="70" style="border-radius:12px; margin:30px;" title="Android Studio" />
+
 </div>
 
