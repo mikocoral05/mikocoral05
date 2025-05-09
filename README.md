@@ -58,11 +58,8 @@
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Linux Server" />
 
-  <!-- XAMPP -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/XAMPP_logo.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="XAMPP" />
 
-  <!-- Hostinger -->
-  <img src="https://assets.hostinger.com/images/logo-h-dark.svg" width="90" height="70" style="border-radius:12px; margin:30px;" title="Hostinger VPS" />
+ 
 
   <!-- Capacitor -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capacitor/capacitor-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Capacitor" />
@@ -76,8 +73,7 @@
   <!-- Google -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Google Tools" />
 
-  <!-- Google AdMob -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Google_AdMob_logo.svg" width="90" height="70" style="border-radius:12px; margin:30px;" title="Google AdMob" />
+
 
   <!-- React (if used) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="React" />
@@ -94,6 +90,17 @@
 
 <!-- Android Studio -->
 <img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" width="70" height="70" style="border-radius:12px; margin:30px;" title="Android Studio" />
+<!-- Microsoft Edge -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/edge/edge-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Microsoft Edge" />
+
+<!-- GitHub -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70" style="border-radius:12px; margin:30px; background-color:white;" title="GitHub" />
+
+<!-- Apple -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Apple" />
+
+<!-- Nuxt.js -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Nuxt.js" />
 
 </div>
 
