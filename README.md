@@ -1,6 +1,6 @@
 <h3>💻 Languages & Tools I Use</h3>
 
-<div align="left" >
+<div align="left">
   <!-- VSCode -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Visual Studio Code" />
 
@@ -19,7 +19,7 @@
   <!-- Vue.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Vue.js" />
 
-  <!-- Quasar Framework -->
+  <!-- Quasar Framework (Placeholder using Vue icon again) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Quasar Framework" />
 
   <!-- Pinia -->
@@ -34,6 +34,15 @@
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="MySQL" />
 
+  <!-- SQLite -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="SQLite" />
+
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="MongoDB" />
+
+  <!-- Mongoose -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Mongoose ODM" />
+
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Linux Server" />
 
@@ -41,17 +50,4 @@
   <img src="https://assets.hostinger.com/images/logo-h-dark.svg" width="90" height="70" style="border-radius:12px; margin:30px;" title="Hostinger VPS" />
 
   <!-- XAMPP -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/XAMPP_logo.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="XAMPP" />
-
-  <!-- Capacitor -->
-  <img src="https://capacitorjs.com/assets/img/logos/capacitor-icon.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Capacitor" />
-
-  <!-- Google AdMob -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Google_AdMob_logo.svg" width="90" height="70" style="border-radius:12px; margin:30px;" title="Google AdMob" />
-
-  <!-- Nginx -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Nginx" />
-
-  <!-- Android -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Android" />
-</div>
+  <img src="https://upload.wikimedia.org/wikipedia/
