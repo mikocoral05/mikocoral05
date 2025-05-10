@@ -102,6 +102,11 @@
 
 <!-- Express.js -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="70" height="70" style="border-radius:12px; margin:30px; background-color:white;" title="Express.js" />
+<!-- Gradle -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Gradle" />
+
+<!-- Kotlin -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="70" height="70" style="border-radius:12px; margin:30px;" title="Kotlin" />
 
 </div>
 
