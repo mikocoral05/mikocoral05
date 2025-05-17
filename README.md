@@ -1,3 +1,20 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mikael+Tenshio!;" />
+</h1>
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **Food APP**
+ 
+ 🌱 I’m currently learning **Nuxt.js, Ios**
+
+ 💬 Ask me about **Node.js, Quasar framework, MongoDB... or anything**
+
+ ⚡ Fun fact **Octopuses have three hearts. Two pump blood to the gills, while the third pumps it to the rest of the body.**
+ 
+ </div>
+<hr/>
 <h3>💻 Languages & Tools I Use</h3>
 
 <div align="left">
