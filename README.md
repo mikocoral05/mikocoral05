@@ -5,16 +5,16 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Food APP**
+ 🔭 I’m currently working at **Across Media IT Solution**
  
  🌱 I’m currently learning **Nuxt.js, Ios**
 
- 💬 Ask me about **Node.js, Quasar framework, MongoDB... or anything**
+ 💬 Feel free to connect with me **mikocoral05@gmail.com**
 
  ⚡ Fun fact **Octopuses have three hearts. Two pump blood to the gills, while the third pumps it to the rest of the body.**
  
  </div>
-<hr/>
+<br/>
 <h3>💻 Languages & Tools I Use</h3>
 
 <div align="left">
